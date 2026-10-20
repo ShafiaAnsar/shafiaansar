@@ -6,11 +6,11 @@ I build modern web applications, backend systems, and intelligent workflows that
 
 My work focuses on the JavaScript and TypeScript ecosystem, from building responsive interfaces with React and Next.js to designing APIs, working with databases, and integrating external services. I'm also exploring AI-powered applications and workflow automation to build software that goes beyond traditional web experiences.
 
-- 💻 Building production-ready full-stack applications
-- ⚙️ Developing backend systems, integrations, and automated workflows
-- 🤖 Exploring LLM-powered applications and AI-assisted automation
-- 🌍 Working with data-intensive platforms and multilingual experiences
-- 📚 Continuously learning about software architecture, AI, and systems engineering
+-  Building production-ready full-stack applications
+-  Developing backend systems, integrations, and automated workflows
+-  Exploring LLM-powered applications and AI-assisted automation
+-  Working with data-intensive platforms and multilingual experiences
+-  Continuously learning about software architecture, AI, and systems engineering
 
 ---
 
